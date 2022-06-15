@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mulengac1
-- 👀 I’m interested in front end and back end development
-- 🌱 I’m currently learning serverless apps
-- 💞️ I’m looking to collaborate on everything.
+- 👀 I’m interested in front end and back end development.
+- 🌱 I’m currently learning serverless apps, ux design, and Javascript.
+- 💞️ I’m looking for a co-founder.
 - 📫 How to reach me email me.
 
 <!---
