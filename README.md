@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christina Mulenga</h1>
-<h3 align="center">A passionate frontend developer from Zambia, Based in Pittsburgh, PA.</h3>
+<h3 align="center">A passionate frontend developer from Zambia 🇿🇲. Based in Pittsburgh, Pennsylvania, USA 🇺🇸 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mulengac1&label=Profile%20views&color=0e75b6&style=flat" alt="mulengac1" /> </p>
 
