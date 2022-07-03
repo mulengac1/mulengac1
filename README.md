@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate, so **send me your projects!**
 
-- 🤝 I’m looking for help with **backend development**
+- 🤝 I’m looking for help with **backend development.**
 
 - 💬 Ask me about **UX Design and Prototypes.**
 
