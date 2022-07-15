@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/endlesslysoft" target="blank"><img src="https://img.shields.io/twitter/follow/endlesslysoft?logo=twitter&style=for-the-badge" alt="endlesslysoft" /></a> </p>
 
-- 🔭 I’m currently working on [Tablefour](https://www.google.com/search?client=safari&rls=en&q=readme+repository+github+customize&ie=UTF-8&oe=UTF-8)
+- 🔭 I’m currently working on [Tablefour](https://www.thetablefour.com)
 
 - 🌱 I’m currently learning **SwiftUI, Xcode, and Azure.**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **UX Design and Prototypes.**
 
-- 📫 How to reach me **TABLEFOUR.io@gmail.com**
+- 📫 How to reach me **contact@thetablefour.com**
 
 - ⚡ Fun fact **I am left handed.**
 
